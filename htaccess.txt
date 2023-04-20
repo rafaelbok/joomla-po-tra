@@ -27,7 +27,6 @@ Header always set X-Content-Type-Options "nosniff"
 </IfModule>
 
 ## Can be commented out if causes errors, see notes above.
-Options +FollowSymlinks
 Options -Indexes
 
 ## Mod_rewrite in use.
